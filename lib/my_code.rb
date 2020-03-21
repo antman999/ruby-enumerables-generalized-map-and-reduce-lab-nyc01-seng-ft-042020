@@ -13,3 +13,9 @@ def map (array)
      num1 = start
      counter = 0 
    else
+     num1 = array[0]
+     counter = 0 
+    
+     
+     
+   end

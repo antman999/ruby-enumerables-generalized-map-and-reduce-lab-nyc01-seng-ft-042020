@@ -1,7 +1,7 @@
 def mymap (array)
   index = []
   counter = 0 
-  while counter < array.length do 
+  while counter < array.length
     index.push(yield(array[counter]))
     counter +=1
  end

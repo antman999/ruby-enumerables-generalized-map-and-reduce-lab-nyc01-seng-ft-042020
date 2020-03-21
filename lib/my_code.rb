@@ -21,5 +21,4 @@ def map (array)
     counter +=1
    end
    num1
-     
    end

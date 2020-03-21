@@ -7,3 +7,5 @@ def map (array)
  end
  index
  end
+ 
+ def reduce (array, start = nil)

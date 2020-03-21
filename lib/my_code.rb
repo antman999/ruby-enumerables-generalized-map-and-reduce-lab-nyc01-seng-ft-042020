@@ -15,6 +15,7 @@ def map (array)
    else
      num1 = array[0]
      counter = 0 
+    end
     
      
      

@@ -14,7 +14,7 @@ def map (array)
      counter = 0 
    else
      num1 = array[0]
-     counter = 0 
+     counter = 1 
     end
     while counter < array.length 
     num1 = yield(num1,array[counter])

@@ -1,4 +1,5 @@
-def map 
-  [1, 2, 3, -9].map {|n|n * -1}
-  
+def map (array)
+  array = [1, 2, 3, -9]
+  array.map {|n|n * -1}
+  return array
 end

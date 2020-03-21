@@ -11,3 +11,5 @@ def map (array)
  def reduce (array, start = nil)
    if start
      num1 = start
+     counter = 0 
+   else

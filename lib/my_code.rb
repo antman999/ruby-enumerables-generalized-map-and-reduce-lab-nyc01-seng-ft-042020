@@ -10,3 +10,4 @@ def map (array)
  
  def reduce (array, start = nil)
    if start
+     num1 = start

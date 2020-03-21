@@ -16,7 +16,8 @@ def map (array)
      num1 = array[0]
      counter = 0 
     end
-    while 
+    while counter < array.length 
+    yield
     
      
      

@@ -4,6 +4,6 @@ def mymap (array)
   negative
 end
 
-mymap(1,2,3,-9) do |t|
+mymap(1) do |t|
   return t
 end

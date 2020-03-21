@@ -1,6 +1,4 @@
-def my (array)
-  array = [1, 2, 3, -9]
-  array.map do |n|
+
+  [1, 2, 3, -9].map do |n|
     n * -1
   end
-end

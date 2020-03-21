@@ -1,4 +1,4 @@
-def mymap (array)
+def map (array)
   index = []
   counter = 0 
   while counter < array.length

@@ -5,4 +5,5 @@ def mymap (array)
     index.push(yield(array[counter]))
     counter +=1
  end
+ index
  end
